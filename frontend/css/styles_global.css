@@ -85,8 +85,3 @@ body {
 .container-input button:active {
     background-color: #6470ce;
 }
-
-.download-button:hover,
-.stream-button:hover {
-    filter: brightness(95%);
-}
